@@ -5,7 +5,7 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/> -->
 
-  <h3><b>Personal Portfolio README</b></h3>
+  <h3><b>Personal Portfolio</b></h3>
 
 </div>
 
@@ -35,19 +35,18 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Personal Portfolio] <a name="about-project">https://github.com/tsheporamantso/Setup-Mobile-Project</a>
+# 📖 [Personal Portfolio]
 
 
 
-**[Personal Portfolio]** is about designing a mobile and desktop page of a personnal portfolio.
- In this project, I built the desktop version of my portfolio using media query:
+**[Personal Portfolio]** is about designing a mobile and desktop page of a personal portfolio.
+This project was built with bootstrap
 - [ ] Follow GitHub Flow
-- [ ] Fix Linters Errors
 - [ ] Use Grid and FlexBox
-- [ ] Follow HTML and CSS best practices
+- [ ] Follow HTML best practices
 
 ## 🛠 Built With <a name="built-with"></a>
-The entire project wasbuilt with only HTML5 and CSS3
+The entire project was built with only HTML5, Bootstrap5
 ### Tech Stack <a name="tech-stack"></a>
 
 <!-- Features -->
@@ -167,12 +166,6 @@ Example:
 - GitHub: [@tsheporamantso](https://github.com/tsheporamantso)
 - Twitter: [@ramgt001](https://twitter.com/home)
 - LinkedIn: [Tshepo Gladwin Ramantso](https://www.linkedin.com/in/tshepo-ramantso-b6a35433/)
-
-👤 **Amarachi Dimkpa**
-
-- GitHub: [@amazinggacee](https://github.com/Amazinggracee)
-- Twitter: [@amazinggraceu](https://twitter.com/amazinggraceu)
-- LinkedIn: [Amarachi Dimpka](https://www.linkedin.com/in/amarachi-dimpka-070643183)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
