@@ -1,29 +1,27 @@
 /* .intro {
-    background-image: url("./images/Header\ bg.svg");
+    background-image: url("./images/header-shapes\ mobile.svg");
     background-repeat: no-repeat;
 } */
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
+@media screen and (min-width: 786px) {
+  .cards {
+    display: none;
+  }
 
-@media screen and (min-width: 786px){
+  .desktop-container {
+    margin-top: 400px;
+  }
 
-    .cards {
-        display: none;
-    }
-
-    .desktop-container {
-        margin-top: 400px;
-    
-    }
-
-    .intro {
-       width: 1000px;
-       border: 1px solid white;
-       border-radius: 0px 0px 0px 90px;
-       background-color: #fff;
-       
-    }
+  .intro {
+    width: 1000px;
+    border: 1px solid white;
+    border-radius: 0 0 0 90px;
+    background-color: #fff;
+  }
+  
 }
+
