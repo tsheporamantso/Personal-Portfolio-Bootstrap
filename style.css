@@ -17,11 +17,11 @@ a {
   }
 
   .intro {
+    height: 650px;
     width: 1000px;
-    border: 1px solid white;
-    border-radius: 0 0 0 90px;
-    background-color: #fff;
-  }
-  
-}
 
+    /* border: 1px solid white;
+    border-radius: 0 0 0 90px;
+    background-color: #fff; */
+  }
+}
